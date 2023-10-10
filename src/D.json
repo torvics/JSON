@@ -1,0 +1,43 @@
+{
+  "invoice" : {
+
+    "business contact" :{
+      "name" : "",
+      "Address" : "",
+      "city" : "",
+      "State" : "",
+      "Zip Code" : ""
+    },
+
+    "bill to" :{
+      "name" : "",
+      "Address" : "",
+      "city" : "",
+      "State" : "",
+      "Zip Code" : ""
+    },
+    "Ship to" :{
+      "name" : "",
+      "Address" : "",
+      "city" : "",
+      "State" : "",
+      "Zip Code" : ""
+    },
+
+    "invoice Details" : {
+      "number" : "",
+      "date" : "",
+      "Terms" : "",
+      "Due" : ""
+    },
+
+    "Description" : {
+      "Type" : true, /* product = true, Service = false */
+      "Description" : "",
+      "QTY" : "",
+      "Rate" : "",
+      "Amount" : ""
+    }
+
+}
+}
